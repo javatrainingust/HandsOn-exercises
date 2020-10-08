@@ -1,0 +1,37 @@
+1.Create an arraylist object with name Students 
+and add  the following students names in the arraylist Students. Now use for each loop to itrate the
+arraylist and print the names.
+
+Vivek
+Vijay
+Ajith
+Surya
+
+
+2.Create a class Cat with an instance variable name of type String and age of type int.
+Create 3 cat objects  with name and age. Create an arraylist Cats and add cat objects into the arraylist.
+Use Iterator to iterate the arraylist Cats.
+
+
+3. Modify the above programs to display a sorted objects.1.Create an arraylist object with name Students 
+and add  the following students names in the arraylist Students. Now use for each loop to itrate the
+arraylist and print the names.
+
+Vivek
+Vijay
+Ajith
+Surya
+
+
+2.Create a class Cat with an instance variable name of type String and age of type int.
+Create 3 cat objects  with name and age. Create an arraylist Cats and add cat objects into the arraylist.
+Use Iterator to iterate the arraylist Cats.
+
+
+3. Modify the above programs to display a sorted objects.
+
+Hint: use Collections.sort(Students) in the first exercise
+use Collections.sort(Cats) in the second exercise. Sort using the age of the cat.Implement Compara
+
+Hint: use Collections.sort(Students) in the first exercise
+use Collections.sort(Cats) in the second exercise. Sort using the age of the cat.Implement Comparable interface

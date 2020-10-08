@@ -1,0 +1,5 @@
+Additional project requirement
+
+Provide interface ICalculator for the concrete class InterestCalculator and use that interface
+in your code for calling the methods.
+

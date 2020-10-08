@@ -1,0 +1,18 @@
+Project Requirements
+Implement the following requirements using the DAO interface, DAOImpl classes and service classes.
+
+1.Add a SBAccount object to the container. (avoid duplication) (use a set and implement equals and 
+hascode methods)
+2.Update the SBAccount object in the container.
+
+3.Add a FDAccount object to the container. (avoid duplication) (use a set and implement equals and 
+hascode methods)
+4.Update the existing FDAccount object in the container.
+
+5.Add a CurrentAccount object to the container. (avoid duplication) (use a set and implement equals and 
+hascode methods)
+6.Update the existing CurrentAccount  object in the container.
+
+7.Add a LoanAccount object to the container. (avoid duplication) (use a set and implement equals and 
+hascode methods)
+8.Update the existing LoanAccount object in the container.

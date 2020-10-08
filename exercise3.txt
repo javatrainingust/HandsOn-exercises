@@ -1,0 +1,23 @@
+Additional project requirement
+Add a  feature for calculating interest for each account.
+
+You use the HAS-A relationship principle for that by creating a new class InterestCalculator and use that inside 
+the each of accont type as reference.
+
+Call the calculateInterest() method of InterestCalculator inside the calculateInterst() method of SBAccount/FDAccount.
+
+
+
+
+Simple interest =pnr/100
+
+p--principal
+
+n=period
+
+r=rate of interest
+
+sb account=4%
+
+fd account =7%
+

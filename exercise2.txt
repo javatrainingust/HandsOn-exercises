@@ -1,0 +1,17 @@
+Additinal project requirement
+
+The bank officals would like to add more account types such as SBAccount FDAccount,CurrentAccount, LoanAccount
+
+Apply inheritance and refactor your code to have Account as your base class and all the other classes are 
+sub classes of Account class.
+
+Move the generic variables and methods to the base class. Include specific vairables and methods to the sub classes.
+
+
+Hint
+
+FDAccount has tenure, autoRenewal (boolean) etc
+
+CurrentAccount has overDraftLimit
+
+LoanAccount has EMI, loanOutStanding, tenure

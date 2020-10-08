@@ -1,0 +1,16 @@
+1.Write a program to implement the Supplier interface 
+using Lambda expression to return a random a number every time.
+
+
+2.Write a program to implement Consumer interface using Lambda expression
+to take a String argument and convert the each letter of the string into upper case and print it
+
+
+3.Write a program to implement Predicate interface using Lambda expression
+to take an integer argument and check whether the value is greater than 50, if so return true otherwise return
+false.
+
+
+4.Write a program to implement Function interface using Lambda expression
+to take a String argument and convert it in to upper case and return it.
+

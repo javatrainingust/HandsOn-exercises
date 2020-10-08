@@ -1,0 +1,16 @@
+Project Requirements
+Implement the following requirements using the service classes.
+
+1.Retrieve all  FDAccount objects sorted based on Account holder names(use Comparable)
+2.Retrieve all FDAccount  objects sorted based on account balance. (Use Comparator)
+
+
+3.Retrieve all SBAccount objects sorted based on Account holder names(use Comparable)
+4.Retrieve all SBAccount objects sorted based on account balance.(Use Comparator)
+
+5 Retrieve all LoanAccount objects sorted based on Account holder names(use Comparable)
+6.Retrieve all LoanAccount objects sorted based on loan outstanding amount.(Use Comparator)
+
+7.Retrieve all CurrentAccount objects sorted based on Account holder names(use Comparable)
+8.Retrieve all CurrentAccount objects sorted based on overdraft limit.(Use Comparator)
+

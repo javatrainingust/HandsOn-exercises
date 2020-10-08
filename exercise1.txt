@@ -1,0 +1,19 @@
+Project Requirement
+A bank requires an application which is used to maintain customers account details.
+Customers can have SavingsBankAccount with the bank.
+The bank officals need to do the following operations on these accounts.
+
+1.Create a new account for customers
+2.Update account details
+3.Calculate interest
+4.Withdraw money
+5.Deposit money
+
+Now write a Account class with instance variables accountNumber,accountHolderName, Balance
+Write a method withdrawMoney(float amountToWithdraw)
+
+Write a main class, which will create a Account object and populate values to the instance variables and call 
+the withdrawMoney() method.
+
+Apply encapsulation to your code so that the balance will be hidden and only accessed through accessor method.
+

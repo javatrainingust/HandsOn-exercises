@@ -1,0 +1,21 @@
+1.Create a HashSet object and add the following objects in to set then display 
+the objects inside the set using for each loop.
+
+String s1 = "test";
+String s2 = "work";
+
+String s3 = "test";
+
+
+
+2.Create a HashSet object and create 3 instances of Cat object of the below cat class.
+Display the objects inside the set using for each loop.
+
+Cat cat1 = new Cat("rosy",2);
+
+Cat cat2 = new Cat("pinky",3);
+
+Cat cat3 = new Cat("rosy",2);
+
+Implement equals() and hashcode() methods in Cat class so that cat3 should be considered equal to cat1 and so
+cat3 should not be added to the set.

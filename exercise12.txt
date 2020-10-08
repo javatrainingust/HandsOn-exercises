@@ -1,0 +1,25 @@
+
+Exercise 12-Lambda expression
+1. public interface CheckValue{
+
+	public boolean check(int n);
+
+}
+
+
+2.public interface numCalculator{
+
+	public int getValue (int a, int b);
+
+
+}
+
+3.public interface DisplayResult{
+
+	public void display(String s);
+
+}
+
+4.public interface Test{
+	public void test();
+}

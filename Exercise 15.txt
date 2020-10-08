@@ -1,0 +1,9 @@
+1. Create HashMap object and store keys as actor name and value as movie name both are of type String.
+
+Retrieve the movie name using the key as actor name.
+
+
+2. Create a HashMap object cats and store cat object as key and the person name for whom it is pet as value.
+Create three cat objects with value for name of the cat and age. Implement equals() methods of cat class.
+
+

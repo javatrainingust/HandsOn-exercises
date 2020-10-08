@@ -1,0 +1,23 @@
+Additional project requirement
+
+Each type of account should have specific implementation of interest calculation.
+
+Solution:
+
+Override the calculateInterest() method of base class Account in the sub classes.
+
+Hint
+----
+
+Use the formula for calculating simple interest simple Interest = (P * r * t)/100
+
+Assume t= 1 year
+
+
+For SBAccount use a interest rate 5%
+
+For FDAccount use a interest rate 7%
+
+
+
+

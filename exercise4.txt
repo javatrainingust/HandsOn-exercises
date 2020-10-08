@@ -1,0 +1,11 @@
+Additional project requirement
+
+Need to include the feature 'Automatic renewal of fixed deposit tenure' for the account. It is not applicable to all type of accounts
+As it only applicable to FDAccount. It is not appropriate to have this feature in base class.
+
+So write a interface Renewable with abstract method autoRenewal(int tenure) and implement this interface in the FDAccount class.
+
+Hint
+1.Have a instance variable maturity date in your FDAccount. Check if isAutoRenewal is true if it is true then check 
+if the maturity date is less than or equal to current date then do auto renewal for the period equal to the tenure.
+and update maturity date with new maturity date which is equal to current date+tenure.
