@@ -1,0 +1,9 @@
+1.Create an ArrayList object and store the following student names in the arraylist.
+Vinoth,Suresh,Jane,Roshan
+
+Convert the above arraylist into stream and call count method of stream to count the number of string objects.
+
+
+2.Create  String array and hold the above student names and convert the array in to stream using
+Arrays.stream() method.
+
