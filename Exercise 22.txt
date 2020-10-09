@@ -1,0 +1,12 @@
+Project Requirements
+Implement the following requirements using the service classes.
+
+1.Retrieve all  FDAccount objects sorted based on Account holder names(Use Stream class and Comparable interface)
+2.Retrieve all FDAccount  objects sorted based on account balance. (Use Stream class and Comparator interface)
+
+
+3.Retrieve all SBAccount objects sorted based on Account holder names(Use Stream class and Comparable interface)
+4.Retrieve all SBAccount objects sorted based on account balance.(Use Stream class and Comparator interface)
+
+5 Retrieve all LoanAccount objects sorted based on Account holder names(Use Stream class and Comparable interface)
+6.Retrieve all LoanAccount objects sorted based on loan outstanding amount.(Use Stream class and Comparator interface)
