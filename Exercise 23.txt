@@ -1,0 +1,7 @@
+Project Requirement
+
+Create an Exception InsufficentBalanceException and throw this exception in your method
+withdrawMoney() method. Check if balance is less than amount to withdraw, in that 
+case you need throw this exception.
+
+In service class you need to use try catch block to handle the exception. 
