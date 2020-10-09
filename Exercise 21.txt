@@ -1,0 +1,11 @@
+1.Create a stream using Stream.of() method  to have a stream of integers with
+values 1,2,3,4,5,6,7,8,9 and use map() method to convert the stream with values
+2,4,6,8,10,12,14,16,18. Use filter() to filter values which are greater than 10 and use count()
+to count the value in resultant stream.
+
+2.Create a stream of student names strings using Stream.of() method.
+sort the stream using sorted method.
+
+3.Use the Cat objects that  you created in your previous exercises.
+Create a stream of cat objects from cats arraylist. Sort the stream of cat based on 
+cat's age using Comparable.
