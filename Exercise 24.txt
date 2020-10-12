@@ -1,0 +1,51 @@
+
+IOC Exercise
+1.There is a Spring World Talent Competion. There are many contestents.
+There is an Organizer,who organizes the competion.
+
+a.Write a Java bean Organizer, it should have a method void sayGreetings()
+Inside the method print the text "Welcome to the talent competion".
+
+b.Configure this bean in xml file.
+
+c.Write a java class SpringDemo. Inside the main method get the Orgainizer reference from
+Spring container and call it's sayGreetings() method.
+
+
+Constructor based injection exercise
+2.Write an interface Performer with a method public void perform()
+Write a class Singer which implements Performer interface.
+
+a.Singer class shall have a property named 'song' of type String.
+
+b.Configure the Singer bean in xml file.
+
+c.Inject a value for Singer bean in Spring container through constructor of the Singer bean.
+
+d.Implement the perofrm() method by printing the value of song property.
+
+e.Create a main class PerformanceDemo and obtain the Singer object from spring container and
+call its perform() method.
+
+
+Setter based injection exercise
+3.Write a bean named Instrumentalist which will implement Performer interface.
+
+a.Write an interface Instrument which will have a method public void play()
+
+b.Write a bean named Saxophone which will implement Instrument interface.
+
+c.Now configure the beans Instrumentalist and Saxophone in Spring container in 
+Spring container by declaring them in xml file.
+
+d.Inject Saxophone bean into Insrumentalist bean through setter injection.
+
+e.Inside the perform() method,call Saxophone object's play() method.The play method should print a text.
+
+f.Create  a main class PerformenceDemo and obtain the instrumentalist object from Spring container
+and call its perform()  method.
+
+
+
+
+
