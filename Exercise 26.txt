@@ -1,0 +1,33 @@
+
+Java based configuration
+
+1.There is a Spring World Talent Competion. There are many contestents.
+There is an Organizer,who organizes the competion.
+
+a.Write a Java bean Organizer, it should have a method void sayGreetings()
+Inside the method print the text "Welcome to the talent competion".
+
+b.Write a java configuration class with @Configuration annotation and use @Bean annotation to create
+Organizer object.
+
+c.Write a java class SpringDemo. Inside the main method get the Orgainizer reference from
+Spring container and call it's sayGreetings() method.
+
+
+
+2.Write a bean named Instrumentalist which will implement Performer interface.
+
+a.Write an interface Instrument which will have a method public void play()
+
+b.Write a bean named Saxophone which will implement Instrument interface.
+
+c.Now configure the beans Instrumentalist and Saxophone inside Java configuration class using @Bean annotation.
+
+d.Pass Saxophone bean into Insrumentalist bean through its setter method in the configuration class.
+
+e.Inside the perform() method,call Saxophone object's play() method.The play method should print a text.
+
+f.Create  a main class PerformenceDemo and obtain the instrumentalist object from Spring container
+and call its perform()  method.
+
+
