@@ -1,0 +1,23 @@
+Create a jsp file aboutMe.jsp
+In that file, There should be a form tag with action "processForm"
+
+In that, you have Hobby input text field. Name of the field is "hobby"
+
+It will have a submit button.
+
+In the AboutMeController, write a method public String process(). Have @RequestMapping("processForm")
+above the method process().The method argument myHobby will be a String and use @RequestParam("hobby") for that
+argument.
+
+Inside the process method, add the text " my hobby is" with argument myHobby. 
+Add this final text into the model object.
+
+This method should return "myHobbies" string.
+
+In myHobbies.jsp file display the text stored in model object.
+
+
+
+
+
+
