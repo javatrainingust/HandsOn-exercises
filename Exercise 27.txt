@@ -1,0 +1,40 @@
+1.Create signup.jsp
+
+Inside the form tag have the following fields
+
+User name
+
+User Id
+
+Password
+
+Confirm password
+
+Submit button
+
+
+
+2. Create a model class Signup.java
+It will have following instance variables
+
+name
+userId
+
+password
+confirmPassowrd
+
+
+3.SignupServlet
+doPost method retreive valuse from request and create object of Signup then set the values
+
+Store the Signup object in request using setAttribute()
+
+Transfer ontrol to confirm.jsp
+
+
+4. Write confirm. jsp, in this page retrieve Signup object from request object using getAttribute()
+Display the values.
+
+
+
+
