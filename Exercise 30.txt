@@ -1,0 +1,24 @@
+1.Create a model class SignUp, it will have the follwing the instance variables
+
+String userName
+String userId
+String password
+String confirmPassword
+
+Create signup.jsp which will have the following input text fields and submit button
+Use the form tag of spring with modelattribute
+
+userName
+userId
+password
+confirmPassword
+
+On clicking submit button the request should go the SignUpController 
+processForm(@ModelAttrinute(signUp) SignUp theSignup) method. Have @RequestMapping("processForm")
+above the method.
+
+Use @ModelAttribute before  the argument SignUp .
+
+This method will return "confirmSignUp"
+
+Create confirmSignUp jsp file, there display the user name and the text "signup successful".
