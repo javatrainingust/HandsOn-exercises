@@ -1,0 +1,14 @@
+Project Requirement
+In our previous sessions we have completed the domain layer, data access layer and
+service layer  for the Banking application.
+Now it is time to complete the presentation logic layer. Implement the following requirements using 
+the Spring MVC framework.
+
+1.Create methods in controller class and create JSP files to update a SBAccount object . 
+
+2.Create methods in controller class and create JSP files to update a FDAccount object . 
+
+
+3.Create methods in controller class and create JSP files to update a CurrentAccount object . 
+
+4.Create methods in controller class and create JSP files to update a LoanAccount object . 
