@@ -1,0 +1,15 @@
+Project Requirement
+In our previous sessions we have completed the domain layer, data access layer and
+service layer  for the Banking application.
+Now it is time to complete the presentation logic layer. Implement the following requirements using 
+the Spring MVC framework.
+
+
+1.Retrieve a specific FDAccount using the account number.
+
+2.Retrieve a specific SBAccount using the Account number.
+
+3.Retrieve a specific CurrentAccount using the Account number.
+
+4.Retrieve a specific LoanAccount using the Account number.
+
