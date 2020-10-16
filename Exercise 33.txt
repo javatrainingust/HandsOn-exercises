@@ -1,0 +1,17 @@
+Project Requirement
+In our previous sessions we have completed the domain layer, data access layer and
+service layer  for the Banking application.
+Now it is time to complete the presentation logic layer. Implement the following requirements using 
+the Spring MVC framework.
+
+
+1.Delete a FDAccount using account Number
+
+
+2.Delete a SBAccount using account Number
+
+
+3.Delete a CurrentAccount using account Number
+
+
+4.Delete a LoanAccount using account Number
