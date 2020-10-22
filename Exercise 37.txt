@@ -1,0 +1,22 @@
+Develop REST webservice for the following requirements
+
+1.Create CountryDetails using POST
+2.Retrieve all the country details using GET
+3.Retrieve a specific country detail for code using GET
+4.Update a specific country details for code using PUT
+5.Delete a specific country details for code using DELETE
+
+Note:
+CountryDetails class will have the following properties
+
+String code
+
+String Description
+
+Example
+
+For India, code is IN and description is India
+
+Note:
+Please have a HashMap named CountryDB and store the countryDetails 
+objects using code as key and CountryDetails object as value
