@@ -1,0 +1,18 @@
+You have already developed a RESTful webservice for the Banking application using Spring Framework
+Now use Spring's JdbcTemplate class and DriverManagerDataSource class to integrate with MySQL DB.
+
+Implement the following use cases by integrating with MySQL DB.
+
+1.Create a new SB Account
+2.Retrieve all SB Accounts
+3.Retrieve a specific SB Account using account number
+4.Update a specific SB Account using account number
+5.Delete a specific SB Account using account number
+
+1.Create a new Loan Account
+2.Retrieve all Loan Accounts
+3.Retrieve a specific Loan Account using account number
+4.Update a specific Loan Account using account number
+5.Delete a specific Loan Account using account number
+
+
