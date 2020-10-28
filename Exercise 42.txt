@@ -1,0 +1,5 @@
+In the FDAccountService class, write a method to retreive all the accounts 
+whose balances are greater than the amount passed to this method as argument.
+
+Write a unit test case to test the above method using Mockito framework, 
+to mock the DAOSQLImpl class and to test only the service method 
