@@ -1,0 +1,2 @@
+Develop a Rest client using RestTemplate to consume the rest webservices of Banking
+application.
